@@ -1,0 +1,17 @@
+{
+    "Mathis":
+    {
+        "dexterity": 3,
+        "wits": 2
+    },
+    "Jalal":
+    {
+        "dexterity": 3,
+        "wits": 3
+    },
+    "Vincent":
+    {
+        "dexterity": 3,
+        "wits": 3
+    }
+}
